@@ -1,0 +1,19 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Sri Lanka Tour Guide</string>
+
+    <!-- Category name for alexandria [CHAR LIMIT=20] -->
+    <string name="alexandria">Central</string>
+
+    <!-- Category name for cairo [CHAR LIMIT=20] -->
+    <string name="cairo">North</string>
+
+
+    <!-- Category name for aswan [CHAR LIMIT=20] -->
+    <string name="aswan">Western</string>
+
+    <string name="see_on_map">See on map:</string>
+    <string name="favorite">Favorite?</string>
+    <string name="come_to_egypt_and_visit_your_favourite_places">Come to Sri Lanka and visit your favourite places !</string>
+    <string name="favorites">Favorites</string>
+</resources>
